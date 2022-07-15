@@ -1,0 +1,16 @@
+.table_main_container{
+    width: 100%;
+    margin-inline: 15px;
+}
+
+.table_event_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 25px;
+}
+
+.table_event_list tr th,td {
+    width: 200px;
+}

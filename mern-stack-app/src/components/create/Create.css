@@ -1,0 +1,21 @@
+.create_main_container{
+    width: 100%;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.event{
+    width: auto;
+    background-color: brown;
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+input,textarea{
+    outline-style: none;
+    margin-top: 5px;
+}
+
+
+
